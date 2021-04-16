@@ -1,0 +1,25 @@
+{
+  "name": "testunit-nodejs",
+  "version": "1.0.0",
+  "description": "Some unit test with Jasmine",
+  "main": "main.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Puigs/TestUnit-NodeJS.git"
+  },
+  "author": "Brayan PUIGSAGUR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Puigs/TestUnit-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Puigs/TestUnit-NodeJS#readme",
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
